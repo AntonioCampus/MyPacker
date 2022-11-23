@@ -21,5 +21,4 @@ In order to learn more about packers and executing pe in memory i decided to wri
  </pre>
  
  # Todo
-   1. x64 support
-   2. Adding more sophisticated encryption algorithms.
+   1. Adding more sophisticated encryption algorithms.
