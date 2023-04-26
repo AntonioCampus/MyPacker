@@ -22,3 +22,4 @@ In order to learn more about packers and executing pe in memory i decided to wri
  
  # Todo
    1. Adding more sophisticated encryption algorithms.
+   2. Adding direct syscall
